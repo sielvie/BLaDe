@@ -1,1 +1,2 @@
 BLaDe: A **B**ERT-Bi**L**STM-**A**ttention Model for Enhanced Language **De**tection
+Language detection is the task of automatically identifying the language of a given sentence. It is a fundamental step in natural language processing that enables language-specific analysis and processing. This reprository contains source code files in python which are used in the proposed model BLaDe. A small description of source code files is mentioned below:
