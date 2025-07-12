@@ -3,11 +3,17 @@ Language detection is the task of automatically identifying the language of a gi
 
 ---------------------------------------
 **Pre-requisite:**
+
 Python 3.7+
 
 torch
+
 transformers
+
 scikit-learn
+
 numpy
+
 pandas
+
 NLTK
