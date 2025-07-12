@@ -62,6 +62,6 @@ def evaluate_model(model, test_loader, y_test, label_encoder, device):
             y_true.extend(y_batch.numpy())
             y_pred.extend(preds)
 
-    print("\nBiSAT Model Classification Report:")
+    print("\nBlaDe Model Classification Report:")
     print(classification_report(y_true, y_pred, target_names=label_encoder.classes_))
     print(f"Accuracy: {accuracy_score(y_true, y_pred):.4f}")
