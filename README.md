@@ -9,4 +9,4 @@ transformers
 scikit-learn
 numpy
 pandas
-
+NLTK
