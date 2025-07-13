@@ -44,7 +44,7 @@ The main execution script. It initializes the dataset, model, and training param
 ---------------------------------------
 **test.py**
 
-Used for inference on new or test data. It loads a trained model and generates predictions for evaluation or deployment.
+Used for inference on new or test data. It loads a trained model and generates predictions for evaluation.
 
 
 
