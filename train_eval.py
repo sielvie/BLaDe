@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jul 3 16:14:52 2025
-
 @author: sielviesharma
 """
 import torch
